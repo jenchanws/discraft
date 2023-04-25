@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "littlechasiu.discraft.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AdvancementMixin",
+    "PlayerDeathMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
