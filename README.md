@@ -4,6 +4,11 @@
 [![Requires Fabric Kotlin](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/1fc7a8dfba76460bedba7fa0b5516b917815e39c/fabric-kotlin.svg)](https://modrinth.com/mod/fabric-language-kotlin)
 
 [![Available on GitHub](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/0dbefc2fcbec362d14f1689acb807183ceffdbe1/github.svg)](https://github.com/jenchanws/discraft)
+
+<!--
+[![Available on Modrinth](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/0dbefc2fcbec362d14f1689acb807183ceffdbe1/modrinth.svg)](https://modrinth.com/mod/discraft)
+-->
+
 [![Find me on Discord](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/0dbefc2fcbec362d14f1689acb807183ceffdbe1/discord.svg)](https://smp.littlechasiu.com/discord)
 
 A Discord chat bridge for Fabric, using the [Placeholder API](https://placeholders.pb4.eu). Send messages in-game and have them relayed to Discord, and vice-versa. Also supports Discord mentions, emotes, and attachments.
